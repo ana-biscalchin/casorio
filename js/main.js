@@ -211,6 +211,12 @@
         }
     }
 
+    window.onbeforeunload = () => {
+        for (const form of document.getElementsByTagName('form')) {
+            form.reset()
+        }
+    }
+
     var sliderMain = function () {
         $('#fh5co-hero .flexslider').flexslider({
             animation: 'fade',
