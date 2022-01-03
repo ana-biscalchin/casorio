@@ -1,19 +1,20 @@
 {
-  "name": "casorio",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ana-biscalchin/casorio.git"
-  },
-  "author": "ana-biscalchin <ana.biscalchin@calindra.com.br>",
-  "license": "MIT",
-  "description": "Landing page do casamento",
-  "bugs": {
-    "url": "https://github.com/ana-biscalchin/casorio/issues"
-  },
-  "homepage": "https://github.com/ana-biscalchin/casorio#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "name": "casorio",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ana-biscalchin/casorio.git"
+    },
+    "author": "ana-biscalchin <ana.biscalchin@calindra.com.br>",
+    "license": "MIT",
+    "description": "Landing page do casamento",
+    "bugs": {
+        "url": "https://github.com/ana-biscalchin/casorio/issues"
+    },
+    "homepage": "https://github.com/ana-biscalchin/casorio#readme",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
 }
