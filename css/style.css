@@ -100,10 +100,10 @@ figure {
     background: #fff;
 }
 .fh5co-nav .top-menu {
-    padding: 28px 0;
+    padding: 0 0;
 }
 .fh5co-nav #fh5co-logo {
-    font-size: 32px;
+    font-size: 42px;
     margin: 0;
     padding: 0;
     text-transform: uppercase;
@@ -690,7 +690,7 @@ figure {
 }
 
 .fh5co-heading {
-    margin-bottom: 5em;
+    margin-bottom: 0;
 }
 .fh5co-heading.fh5co-heading-sm {
     margin-bottom: 2em;
