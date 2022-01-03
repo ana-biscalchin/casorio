@@ -638,7 +638,7 @@ figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-    padding: 7em 0;
+    padding: 2em 0;
     clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -651,7 +651,7 @@ figure {
     #fh5co-content-section,
     #fh5co-contact,
     #fh5co-footer {
-        padding: 3em 0;
+        padding: 1em 0;
     }
 }
 
@@ -950,10 +950,10 @@ figure {
     height: 150px;
     border: 10px solid #fff;
     background-size: cover;
-    -webkit-border-radius: 50%;
+    /* -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%;
+    border-radius: 50%; */
 }
 .fh5co-team > div {
     padding: 30px 30px 0 30px;
